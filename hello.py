@@ -18,4 +18,4 @@ print(type(happiness_rating))
 
 print(f"Меня зовут {first_name}, и я ставлю мороженому {ice_cream_rating} баллов из 10! Я {my_name}, и мой рейтинг удовольствия от сна — {sleep_rating} из 10! Исходя из вышеперечисленных факторов, мой рейтинг счастья составляет {happiness_rating} из 10, или {percentage}%!")
 
-#комментарий
+#комментарий"1
